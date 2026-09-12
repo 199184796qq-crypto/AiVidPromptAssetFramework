@@ -1,0 +1,28 @@
+{
+  "source": "https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/h3-prompt-writing",
+  "commit": "d21241f0a4b3acbb34c97dae47fa417b7065e438",
+  "savedAt": "2026-09-12T18:46:22.7521909+08:00",
+  "policy": "Frozen original. No edits or automatic updates. Custom rules must be stored separately.",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "gitBlob": "b6d9b2839384a588763a9c24315225dd8ce19d56",
+      "sha256": "A7000443588CA3F145E3B3FD8900F14E0325DC460BD811268FAC89A9DC8E56D0"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "gitBlob": "8151bd25e3dc29bdb67c8049e39c34c60c3f08f8",
+      "sha256": "7770C9D784B7251AB882EE29A738219A3F01811E57BA7FC7822FA83EB8438C1A"
+    },
+    {
+      "path": "references/base-en.txt",
+      "gitBlob": "40cf586a634d677d6b7107b367cf0ec9621be728",
+      "sha256": "2CFEBC096A6E08370F288D468D90B60F7F9BCB938F94BF090816E910E48E75FC"
+    },
+    {
+      "path": "references/ref-en.txt",
+      "gitBlob": "7ae1b2d07d743fd2392258a96449be9e9e322d35",
+      "sha256": "1E574F356716AD55612247FFB7BBCCBCDB484AD96599D63C7DCA1AF186B1FAB7"
+    }
+  ]
+}

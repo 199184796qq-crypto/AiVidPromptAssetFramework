@@ -1,0 +1,17 @@
+{
+  "source": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+  "commit": "5335715abe54c1a9bfbe3494da29aae3e8635ce3",
+  "savedAt": "2026-09-12T20:39:41.0823490+08:00",
+  "protection": "与官方技能同级只读冻结，禁止覆盖、改写、自动更新。新修订另存版本，必须经用户明确确认。",
+  "provenance": "README.md 是第三方项目原始说明；已确认续写理解与时间规则.md 是用户认可的本项目续写规则。保护级别相同不代表来源均为 MiniMax 官方。",
+  "files": [
+    {
+      "file": "已确认续写理解与时间规则.md",
+      "sha256": "D8DE38E3B11489C2D6DD8423731A53932906D7802E8277515206FB277A787051"
+    },
+    {
+      "file": "README.md",
+      "sha256": "88096D82B036EB89CA8834507902952C9F7AED99A5F0F86B034FA13380032A92"
+    }
+  ]
+}
