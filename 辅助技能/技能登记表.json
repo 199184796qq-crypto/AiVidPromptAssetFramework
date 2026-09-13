@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "skills": [],
+  "entryFields": ["id", "name", "version", "source", "sourceCommit", "entryPath", "sha256", "scope", "parent_function", "dependencies", "compatibleTools", "redistributionLicense", "installationStatus"],
+  "scopeValues": ["global", "function"],
+  "installationStatusValues": ["registered", "installed", "unavailable", "disabled"]
+}

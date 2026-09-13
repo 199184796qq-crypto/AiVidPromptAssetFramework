@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "templateOnly": true,
+  "projectId": null,
+  "videoId": null,
+  "engine": null,
+  "promptVersion": null,
+  "storyVersion": null,
+  "storyboardVersion": null,
+  "skills": [],
+  "skillUsageFields": ["id", "version", "sha256", "order", "configuration", "confirmedChanges"],
+  "syncStatus": "not_recorded"
+}
