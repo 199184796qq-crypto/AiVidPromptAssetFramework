@@ -1,6 +1,6 @@
 {
   "activeBaseline": "规则基线-v1",
-  "activeThrough": "R005",
+  "activeThrough": "R004",
   "status": "ACTIVE",
   "hardRulesAlwaysActive": true,
   "rollbackMode": "pointer-only-preserve-history"
