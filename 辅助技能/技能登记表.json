@@ -12,7 +12,10 @@
       "scope": "global",
       "parent_function": null,
       "dependencies": [],
-      "compatibleTools": ["H3", "通用AI视频模型"],
+      "compatibleTools": [
+        "H3",
+        "通用AI视频模型"
+      ],
       "redistributionLicense": "未提供（仅记录来源与固定版本，不随框架发布上传包内容）",
       "installationStatus": "installed",
       "notes": "源包未声明版本，按 1.0.0 登记。其 text 代码块交付写法与本框架交付协议冲突，本框架内不采用。安装记录：辅助技能/安装记录/asset-driven-cinematic-video-prompt/2026-09-13-安装-v1.0.0.md"
@@ -28,7 +31,9 @@
       "scope": "global",
       "parent_function": null,
       "dependencies": [],
-      "compatibleTools": ["图像生成"],
+      "compatibleTools": [
+        "图像生成"
+      ],
       "redistributionLicense": "未提供（仅记录来源与固定版本，不随框架发布上传包内容）",
       "installationStatus": "installed",
       "notes": "源包未声明版本，按 1.0.0 登记。其 text 代码块输出要求与本框架交付协议冲突，本框架内不采用。安装记录：辅助技能/安装记录/color-palette-prompt/2026-09-13-安装-v1.0.0.md"
@@ -44,7 +49,10 @@
       "scope": "global",
       "parent_function": null,
       "dependencies": [],
-      "compatibleTools": ["图像生成", "H3（分镜/场景连续性辅助）"],
+      "compatibleTools": [
+        "图像生成",
+        "H3（分镜/场景连续性辅助）"
+      ],
       "redistributionLicense": "未提供（仅记录来源与固定版本，不随框架发布上传包内容）",
       "installationStatus": "installed",
       "notes": "源包未声明版本，按 1.0.0 登记；源包内 corrupt-backup 损坏备份未安装。与框架硬规则无冲突。安装记录：辅助技能/安装记录/scene-anchor-multiview/2026-09-13-安装-v1.0.0.md"
@@ -60,7 +68,10 @@
       "scope": "global",
       "parent_function": null,
       "dependencies": [],
-      "compatibleTools": ["图像生成", "H3（角色资产辅助）"],
+      "compatibleTools": [
+        "图像生成",
+        "H3（角色资产辅助）"
+      ],
       "redistributionLicense": "未提供（仅记录来源与固定版本，不随框架发布上传包内容）",
       "installationStatus": "installed",
       "notes": "源包未声明版本，按 1.0.0 登记。其 text 代码块输出要求与本框架交付协议冲突，本框架内不采用。安装记录：辅助技能/安装记录/character-four-view/2026-09-13-安装-v1.0.0.md"
@@ -71,18 +82,65 @@
       "version": "1.2.0",
       "source": "C:\\Users\\19918\\.codex\\skills\\h3-martial-arts-director",
       "sourceCommit": null,
-      "entryPath": "辅助技能/packages/h3-martial-arts-director/1.2.0/SKILL.md",
+      "entryPath": "辅助技能/历史停用/h3-martial-arts-director/1.2.0/SKILL.md",
+      "disabled": true,
+      "replacement": "h3-cinematic-fight-director",
       "sha256": "5BB066DE40A6617B2CE87E46D1828807506C5ED654CA4EF81FF6D744EFD2385C",
       "scope": "global",
       "parent_function": "H3",
-      "dependencies": ["h3-prompt-writing（框架内冻结官方技能及其 references）"],
-      "compatibleTools": ["H3"],
+      "dependencies": [
+        "h3-prompt-writing（框架内冻结官方技能及其 references）"
+      ],
+      "compatibleTools": [
+        "H3"
+      ],
       "redistributionLicense": "未提供（仅记录来源与固定版本，不随框架发布上传包内容）",
+      "installationStatus": "disabled",
+      "notes": "用户明确排除两项：不采用其独立代码块交付要求（以本框架交付协议为准）；不采用末镜后追加固定禁文字＋禁字幕句式。仅采用动作设计与提示词内容能力。安装记录：辅助技能/安装记录/h3-martial-arts-director/2026-09-13-安装-v1.2.0.md ｜ 2026-09-13 补充：用户已在 ~/.workbuddy/skills/h3-martial-arts-fusion/ 沉淀融合规范 v1.0.0，记录 v4→v5→v6 三次迭代踩坑与正确写法。本登记条目不修改源包，仅作为对本辅助技能的外部补充指引。"
+    },
+    {
+      "id": "h3-cinematic-fight-director",
+      "name": "H3 影视战斗导演",
+      "version": "1.0.0",
+      "source": "C:/Users/19918/.codex/skills/h3-cinematic-fight-director",
+      "sourceCommit": null,
+      "entryPath": "辅助技能/packages/h3-cinematic-fight-director/1.0.0/SKILL.md",
+      "sha256": "3CDD83D40B2B4A96B506CCF43DF848EFB7CEE3356ECF1968389A88CDB328E5D4",
+      "scope": "function",
+      "parent_function": "H3",
+      "dependencies": [],
+      "compatibleTools": [
+        "H3"
+      ],
+      "redistributionLicense": "未提供",
       "installationStatus": "installed",
-      "notes": "用户明确排除两项：不采用其独立代码块交付要求（以本框架交付协议为准）；不采用末镜后追加固定禁文字＋禁字幕句式。仅采用动作设计与提示词内容能力。安装记录：辅助技能/安装记录/h3-martial-arts-director/2026-09-13-安装-v1.2.0.md"
+      "activationStatus": "available_for_selection",
+      "notes": "用户已明确裁定：保留框架R010，先展示适用流程与强制要求，再执行技能并融合结果。覆盖本技能默认不展示流程的输出要求；技能原文不改，正式提示词保留主技能封装。可供选择，尚未自动绑定项目或提示词。"
     }
   ],
-  "entryFields": ["id", "name", "version", "source", "sourceCommit", "entryPath", "sha256", "scope", "parent_function", "dependencies", "compatibleTools", "redistributionLicense", "installationStatus"],
-  "scopeValues": ["global", "function"],
-  "installationStatusValues": ["registered", "installed", "unavailable", "disabled"]
+  "entryFields": [
+    "id",
+    "name",
+    "version",
+    "source",
+    "sourceCommit",
+    "entryPath",
+    "sha256",
+    "scope",
+    "parent_function",
+    "dependencies",
+    "compatibleTools",
+    "redistributionLicense",
+    "installationStatus"
+  ],
+  "scopeValues": [
+    "global",
+    "function"
+  ],
+  "installationStatusValues": [
+    "registered",
+    "installed",
+    "unavailable",
+    "disabled"
+  ]
 }
