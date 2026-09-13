@@ -101,11 +101,11 @@
     {
       "id": "h3-cinematic-fight-director",
       "name": "H3 影视战斗导演",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "source": "C:/Users/19918/.codex/skills/h3-cinematic-fight-director",
       "sourceCommit": null,
-      "entryPath": "辅助技能/packages/h3-cinematic-fight-director/1.1.0/SKILL.md",
-      "sha256": "79812662134E7E68E9BC839CF8E89979E975AA583423A0A4D2DA921BA210ECBF",
+      "entryPath": "辅助技能/packages/h3-cinematic-fight-director/1.0.0/SKILL.md",
+      "sha256": "3CDD83D40B2B4A96B506CCF43DF848EFB7CEE3356ECF1968389A88CDB328E5D4",
       "scope": "function",
       "parent_function": "H3",
       "dependencies": [],
@@ -115,7 +115,7 @@
       "redistributionLicense": "未提供",
       "installationStatus": "installed",
       "activationStatus": "available_for_selection",
-      "notes": "用户已明确裁定：保留框架R010，先展示适用流程与强制要求，再执行技能并融合结果。覆盖本技能默认不展示流程的输出要求；技能原文不改，正式提示词保留主技能封装。可供选择，尚未自动绑定项目或提示词。 2026-09-13 升级至1.1.0：加入角色外观与战斗能力前置引导，支持详细逐项和简易生成，档案融入Subject约束；沿用既有流程展示裁定。旧1.0.0保留，历史项目绑定不变。安装记录：辅助技能/安装记录/h3-cinematic-fight-director/安装-v1.1.0.md。"
+      "notes": "用户已明确裁定：保留框架R010，先展示适用流程与强制要求，再执行技能并融合结果。覆盖本技能默认不展示流程的输出要求；技能原文不改，正式提示词保留主技能封装。可供选择，尚未自动绑定项目或提示词。"
     }
   ],
   "entryFields": [
