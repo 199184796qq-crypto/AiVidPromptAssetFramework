@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 2,
   "templateOnly": true,
   "projectId": null,
   "videoId": null,
@@ -27,16 +27,7 @@
     "fusionChanges",
     "storyImpact",
     "storyboardImpact",
-    "completionStatus",
-    "sourceManifest",
-    "fusionId",
-    "fusionVersion",
-    "fusionEntryPath",
-    "fusionSha256",
-    "activationEvidence",
-    "activationTarget",
-    "activationScope",
-    "activationStatus"
+    "completionStatus"
   ],
   "syncStatus": "not_recorded"
 }

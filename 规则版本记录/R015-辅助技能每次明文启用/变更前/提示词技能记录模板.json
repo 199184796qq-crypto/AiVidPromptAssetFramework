@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 3,
   "templateOnly": true,
   "projectId": null,
   "videoId": null,
@@ -32,11 +32,7 @@
     "fusionId",
     "fusionVersion",
     "fusionEntryPath",
-    "fusionSha256",
-    "activationEvidence",
-    "activationTarget",
-    "activationScope",
-    "activationStatus"
+    "fusionSha256"
   ],
   "syncStatus": "not_recorded"
 }

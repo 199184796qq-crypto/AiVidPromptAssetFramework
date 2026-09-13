@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "baselineRule": "R014",
+  "capturedAt": "2026-09-13T18:11:29.9381398+08:00",
+  "files": [
+    {
+      "path": "辅助技能/packages/asset-driven-cinematic-video-prompt/1.0.0/SKILL.md",
+      "sha256": "77428552926A00429DB5DA51234B5D7D000D22B057CB07D2050F6FA3F3ACF6BC"
+    },
+    {
+      "path": "辅助技能/packages/asset-driven-cinematic-video-prompt/1.0.0/agents/openai.yaml",
+      "sha256": "9973DCD7B58E6D4C684CF2FDFD60376664128AC4B670439D6B2B67C4A53E906D"
+    },
+    {
+      "path": "辅助技能/packages/character-four-view/1.0.0/SKILL.md",
+      "sha256": "06099EC689212739D36AAA65A1AA86D817E81E8D321BC2C5C5A2A59E259FF7A3"
+    },
+    {
+      "path": "辅助技能/packages/character-four-view/1.0.0/agents/openai.yaml",
+      "sha256": "0EAAEC7597E0F6358923C4DCF7E272177A5D79A3921D31A39AF0F8784230DBED"
+    },
+    {
+      "path": "辅助技能/packages/color-palette-prompt/1.0.0/SKILL.md",
+      "sha256": "DD8787C8CB0CA054ABA26032C2E860768000D49B7F5FC1DB346DB8C4D10A0DAD"
+    },
+    {
+      "path": "辅助技能/packages/color-palette-prompt/1.0.0/agents/openai.yaml",
+      "sha256": "07544F19A015214D8F648EC91631F1E2D76E01D7720EC36FA7FE94431A465B8F"
+    },
+    {
+      "path": "辅助技能/packages/h3-cinematic-fight-director/1.0.0/SKILL.md",
+      "sha256": "3CDD83D40B2B4A96B506CCF43DF848EFB7CEE3356ECF1968389A88CDB328E5D4"
+    },
+    {
+      "path": "辅助技能/packages/h3-cinematic-fight-director/1.0.0/agents/openai.yaml",
+      "sha256": "FDC055D07783C50FBC4FCDED34A4E5B774EFC4916E7F1AD14B16C2A7026E87B3"
+    },
+    {
+      "path": "辅助技能/packages/h3-cinematic-fight-director/1.1.0/SKILL.md",
+      "sha256": "79812662134E7E68E9BC839CF8E89979E975AA583423A0A4D2DA921BA210ECBF"
+    },
+    {
+      "path": "辅助技能/packages/h3-cinematic-fight-director/1.1.0/agents/openai.yaml",
+      "sha256": "FDC055D07783C50FBC4FCDED34A4E5B774EFC4916E7F1AD14B16C2A7026E87B3"
+    },
+    {
+      "path": "辅助技能/packages/scene-anchor-multiview/1.0.0/SKILL.md",
+      "sha256": "23EB40D1BD94DD9A0C389960244E572DF093623550C3EACC7D49C33D48AC80A8"
+    },
+    {
+      "path": "辅助技能/packages/scene-anchor-multiview/1.0.0/agents/openai.yaml",
+      "sha256": "98A743603D975D6BD532F8D72DA438180465C8FAD912F70CD589E8A6AEC27E49"
+    },
+    {
+      "path": "辅助技能/历史停用/h3-martial-arts-director/替换前登记表.json",
+      "sha256": "0E62E6B8820DA8EF11EE084C2E86EF11E7B7710AD7A622ACC3CE17DE8D4EC773"
+    },
+    {
+      "path": "辅助技能/历史停用/h3-martial-arts-director/1.2.0/SKILL.md",
+      "sha256": "5BB066DE40A6617B2CE87E46D1828807506C5ED654CA4EF81FF6D744EFD2385C"
+    },
+    {
+      "path": "辅助技能/历史停用/h3-martial-arts-director/1.2.0/agents/openai.yaml",
+      "sha256": "DD64EAE273A664D7EADC671C0E1E4997F38C4184F294B8DF22549677AE51379D"
+    },
+    {
+      "path": "辅助技能/历史停用/h3-martial-arts-director/1.2.0/references/h3-reference-binding.md",
+      "sha256": "D4065126E08B0A4C7FF48CB7587718D3002A875766E02B0308DB0FD607B8067B"
+    }
+  ]
+}
