@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "sourceType": "用户提供手册；本地编写主技能入口",
+  "sourcePath": "D:\\电商\\建材项目\\Wan3.0视频创作者手册.md",
+  "sourceSHA256": "E52542A92E4B29C846798F712170938F835B978B6A454D4093A52327EDBB1CC4",
+  "files": [
+    {
+      "sha256": "3172597EDBA24543F6D6C33C80A8BD6AE3372EC18FCAD6B7721C568E3AA30830",
+      "path": "SKILL.md"
+    },
+    {
+      "sha256": "E52542A92E4B29C846798F712170938F835B978B6A454D4093A52327EDBB1CC4",
+      "path": "references/Wan3.0视频创作者手册.md"
+    }
+  ]
+}

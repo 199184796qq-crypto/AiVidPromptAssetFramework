@@ -1,0 +1,4 @@
+# Preserve frozen Wan3 source bytes and checksum records across clones.
+wan3-prompt-writing/** -text
+"用户定制规则/Wan3主技能冻结保护.md" -text
+"规则版本记录/R024-Wan3主技能冻结/保护校验.json" -text
