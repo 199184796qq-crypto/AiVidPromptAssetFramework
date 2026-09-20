@@ -1,0 +1,9 @@
+{
+  "activeBaseline": "规则基线-v1",
+  "activeThrough": "R030",
+  "activeSupplements": ["R034"],
+  "supplementEntries": {"R034": "用户定制规则/三层规则加载与检查.md"},
+  "status": "ACTIVE",
+  "hardRulesAlwaysActive": true,
+  "rollbackMode": "pointer-only-preserve-history"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "templateOnly": true,
+  "agentId": null,
+  "projectId": null,
+  "videoId": null,
+  "segmentId": null,
+  "checkedAt": null,
+  "inputVersion": null,
+  "outputVersion": null,
+  "layers": {
+    "framework": {"status": "not_checked", "entry": null, "files": []},
+    "project": {"status": "not_checked", "entry": null, "files": []},
+    "segment": {"status": "not_checked", "entry": null, "files": []}
+  },
+  "fileFields": ["path", "version", "sha256", "readStatus", "applicability", "reason"],
+  "effectiveRules": [],
+  "ruleFields": ["id", "sourceLayer", "sourcePath", "section", "requirement", "mandatory", "status", "evidence", "reason"],
+  "conflicts": [],
+  "completionStatus": "not_checked"
+}
